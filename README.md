@@ -1,3 +1,3 @@
-<h1 align="center">BLOCKCHAIN ROADMAP</h1>
+<h1 align="center"> :chains: BLOCKCHAIN ROADMAP</h1>
 
-### This Repository follows my web3 development roadmap
+<h3 align="center">This Repository follows my web3 development roadmap</h3>
